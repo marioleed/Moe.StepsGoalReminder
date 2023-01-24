@@ -1,1 +1,1 @@
-# Moe.StepsGoalReminder
+# Steps Goal Reminder
